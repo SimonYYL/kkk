@@ -27,7 +27,7 @@ def download_and_load_data():
 
 df = download_and_load_data()
 
-st.title("Query-Based Column Selector")
+st.title("Query-Based Column Selector -- DSCI320 SAT")
 
 # Display available columns
 if not df.empty:
